@@ -6,3 +6,6 @@
 5. run pole_placement.m
 6. open test_feedback_linearization_corrected_function.slx
 7. run the model
+
+
+Folder "original" contains the code as supplied at project beginning
